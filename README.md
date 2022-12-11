@@ -1,2 +1,2 @@
 # Python
-Боь написан с помощью pyTelegramBotAPI
+Бот написан с помощью pyTelegramBotAPI
